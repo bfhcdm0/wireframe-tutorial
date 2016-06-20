@@ -57,6 +57,9 @@
   <widgets xsi:type="model:Note" id="23" x="704" y="244" text="Note 7" measuredWidth="52" measuredHeight="29">
     <font/>
   </widgets>
+  <widgets xsi:type="model:Note" id="24" x="755" y="312" text="Note 8" measuredWidth="52" measuredHeight="29">
+    <font/>
+  </widgets>
   <hRuler/>
   <vRuler/>
   <font size="12px"/>
